@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 bert_frozen_encoder/
+bert_fine_tuned/
 
 # C extensions
 *.so
